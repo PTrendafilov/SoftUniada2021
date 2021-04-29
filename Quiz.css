@@ -1,0 +1,82 @@
+.row1 {
+    background-image: url(img/guille-pozzi-sbcIAn4Mn14-unsplash.jpg)!important;
+    background-color: black;
+}
+
+.buttons {
+    width: 70%;
+    margin: 0 auto;
+    background-color: rgb(228, 228, 228)!important;
+}
+
+.buttons button {
+    font-size: 30px;
+    width: 4%;
+    border-radius: 50%;
+}
+
+.hide {
+    display: none;
+}
+
+.correct {
+    background: greenyellow;
+}
+
+#questions {
+    background-color: rgb(228, 228, 228)!important;
+    width: 70%;
+    margin: 0 auto;
+}
+
+#button1 {
+    margin-top: 17.5em;
+    bottom: 0;
+    padding: 10px;
+    font-size: 30px;
+    width: 100%;
+    float: right;
+}
+
+#button2,
+#button3,
+#button4,
+#button5,
+#button6,
+#button7,
+#button8,
+#button9,
+#button10,
+#button11,
+#button12,
+#button13,
+#button14,
+#button15 {
+    margin-top: 17.5em;
+    padding: 10px;
+    font-size: 30px;
+    width: 50%;
+    float: right;
+}
+
+#button16,
+#button17,
+#button18,
+#button19,
+#button20,
+#button21,
+#button22,
+#button23,
+#button24,
+#button25,
+#button26,
+#button27,
+#button28,
+#button29,
+#button30 {
+    margin-top: 17.5em;
+    padding: 10px;
+    font-size: 30px;
+    width: 50%;
+    float: left;
+}

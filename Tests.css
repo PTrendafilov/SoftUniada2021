@@ -1,0 +1,106 @@
+.red {
+    background-color: red!important;
+}
+
+input {
+    display: inline-block!important;
+    margin-bottom: 5px;
+}
+
+label {
+    display: inline-block!important;
+    margin-left: 40px!important;
+    font-size: 20px!important;
+}
+
+p {
+    margin-left: 20px!important;
+    font-size: 24px;
+}
+
+#button1 {
+    width: 100%!important;
+}
+
+button {
+    display: inline-block!important;
+}
+
+#questions button {
+    width: 50%;
+    background-color: rgb(255, 255, 79);
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+.correct {
+    background-color: chartreuse;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttons button {
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 24px;
+    width: 50px;
+    margin-top: 30px;
+}
+
+.hide {
+    display: none!important;
+}
+
+img {
+    width: 65px!important;
+    margin-right: 20px!important;
+    margin-top: -8px!important;
+}
+
+.wrapper {
+    background-image: url(img/guille-pozzi-sbcIAn4Mn14-unsplash.jpg);
+}
+
+#Result {
+    color: red;
+    float: right;
+    margin-right: 100px;
+}
+
+#main {
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: white;
+}
+
+.row1 {
+    background-image: url(img/guille-pozzi-sbcIAn4Mn14-unsplash.jpg)!important;
+    background-color: black;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+body {
+    font-family: 'Raleway', sans-serif!important;
+}
+
+#mainav .active a,
+#mainav a:hover,
+#mainav li:hover>a,
+#mainav li li a,
+#mainav .active li a {
+    color: black!important;
+    background-color: rgb(255, 255, 31)!important;
+    border-bottom: 1px solid white!important;
+}
+
+#mainav .active a,
+#mainav a:hover,
+#mainav li:hover>a,
+#mainav li li a:hover,
+#mainav .active li a:hover {
+    background-color: rgb(255, 255, 31)!important;
+    border-bottom: 1px solid black!important;
+}
